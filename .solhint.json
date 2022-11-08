@@ -4,7 +4,7 @@
     "prettier/prettier": "error",
     "compiler-version": [
       "error",
-      "0.8.4"
+      "0.8.13"
     ],
     "func-visibility": [
       "warn",

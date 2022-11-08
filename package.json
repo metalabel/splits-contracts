@@ -1,5 +1,5 @@
 {
-  "name": "0xsplits",
+  "name": "@metalabel/splits-contracts",
   "version": "0.1.0",
   "private": true,
   "scripts": {

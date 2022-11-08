@@ -23,11 +23,11 @@ import * as dotenv from 'dotenv'
 dotenv.config({ path: '.env.local' })
 
 const config: HardhatUserConfig = {
-  // solidity: '0.8.4',
+  // solidity: '0.8.13',
   solidity: {
     compilers: [
       {
-        version: '0.8.4',
+        version: '0.8.13',
         settings: {
           optimizer: {
             enabled: true,

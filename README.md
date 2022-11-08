@@ -2,6 +2,9 @@
 
 [![codecov](https://codecov.io/gh/0xSplits/splits-contracts/branch/main/graph/badge.svg?token=ERFQOFF0L7)](https://codecov.io/gh/0xSplits/splits-contracts)
 
+
+> This fork is maintained by Metalabel and contains a few small opinionated changes to accommodate our needs. See METALABEL.md for more info ✌️
+
 ## Run locally
 ```
 yarn hardhat node
@@ -17,7 +20,7 @@ Make sure to have node installed, need >= 12. Can find the installation
 [here](https://nodejs.org/en/download/). A node version manager can also
 be useful, you can read more about it [here](https://github.com/nvm-sh/nvm).
 
-Install yarn: `npm install --global yarn`  
+Install yarn: `npm install --global yarn`
 Confirm the installation: `yarn --version`
 
 Run `yarn install` to add packages
